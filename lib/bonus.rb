@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-epic_tragedy_hash = epic_tragedy[:capulet][:montague][:status] = "dead"
+epic_tragedy_hash = epic_tragedy[:capulet][:heroine][:status] = "dead"
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
